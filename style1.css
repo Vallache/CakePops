@@ -1,0 +1,30 @@
+.main{
+    align-items: center;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+footer {
+    background-color: #f5f5f5;
+    padding: auto;
+    text-align: center;
+}
+
+
+header, main, footer {
+    text-align: center;
+    margin: 20px auto;
+}
+.cake{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+.bakery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

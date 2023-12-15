@@ -1,0 +1,41 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  ul {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: #000;
+  }
+  
+  header, main, footer {
+    text-align: center;
+    margin: 20px auto;
+}  
+table {
+  border : 1px solid #000;
+  width: 500px;
+  height: 500px;
+  }
+  td {
+  border : 1px solid #000;}
+
+  
